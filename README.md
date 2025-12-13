@@ -53,6 +53,8 @@ Model Context Protocol Server Vulnerability Analysis Project
 ## CVE
 - [CVE-2025-63603](https://www.cve.org/CVERecord?id=CVE-2025-63603)
 - [CVE-2025-63604](https://www.cve.org/CVERecord?id=CVE-2025-63604)
+- [CVE-2025-65512](https://www.cve.org/CVERecord?id=CVE-2025-65512)
+- [CVE-2025-65513](https://www.cve.org/CVERecord?id=CVE-2025-65513)
 
 
 ## 👥 팀 소개 (Team Off-Course)
